@@ -19,6 +19,10 @@
       "app1": [
         "dist/app1/app1",
         "dist/app1"
+      ],
+      "app2": [
+        "dist/app2/app2",
+        "dist/app2"
       ]
     }
   },
